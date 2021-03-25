@@ -28,6 +28,12 @@ nguye639@msu.edu
 
 5. Referances
 
+All IceCube software
+https://docs.icecube.aq/combo/trunk/index.html
+
+CVMFS environment
+https://docs.icecube.aq/combo/trunk/info/cvmfs.html
+
 
 
 
